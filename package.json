@@ -1,0 +1,19 @@
+{
+  "name": "SerialSocketServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "socket.io": "1.0.x",
+    "firmata": "0.2.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Magalhães",
+  "license": "ISC"
+}
